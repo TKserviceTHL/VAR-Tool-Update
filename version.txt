@@ -1,2 +1,2 @@
 1.0.3
-VAR Tool v1.0.3.exe
+https://raw.githubusercontent.com/TKserviceTHL/VAR-Tool-Update/main/VAR%20Tool%20v1.0.3.exe
