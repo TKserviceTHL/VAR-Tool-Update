@@ -1,2 +1,2 @@
 1.0.3
-https://www.mediafire.com/file/68nzkp3m8w2bzgg/VAR_Tool_v1.0.2.exe/file
+https://raw.githubusercontent.com/TKserviceTHL/VAR-EXE/main/VAR%20Tool%20v1.0.3.exe
